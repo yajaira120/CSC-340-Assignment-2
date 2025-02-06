@@ -7,3 +7,4 @@
       * http://localhost:8080/pokemon
 
 You will end up with a list of the names of Pokemon from the API.
+* https://pokeapi.co/docs/v2#pokemon
